@@ -1,5 +1,5 @@
 # Tic-Tac-Toe #
-### *The popular game Tic-Tac-Toe for two players* ###
+### *The popular game Tic-Tac-Toe for two players*
 
 ## Table of contents: ##
 1. About my Tic-Tac-Toe game code
